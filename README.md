@@ -18,7 +18,7 @@ Implementação de Retrieval-Augmented Generation (RAG) utilizando:
 1. Clone o repositório:
 
 ```bash
-git clone [URL_DO_REPOSITORIO]
+git clone git@github.com:walefy/rag_poc_labdev.git
 ```
 
 2. Instale as dependências
